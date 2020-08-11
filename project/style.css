@@ -1,0 +1,52 @@
+#parent{
+  position: relative;
+  width: 300px;
+  height: 300px;
+  background-color: red;
+  
+}
+#child1{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  background-color: blue;
+  /* margin:50x */
+}
+
+#child2{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  right: 0px;
+  background-color:green;
+  /* margin:50x */
+}
+
+#child3{
+  width: 100px;
+   height: 100px;
+   position: absolute;
+  bottom: 0px;
+  background-color:yellow;
+  /* margin:50x */
+}
+
+#child4{
+  width: 100px;
+  position: absolute;
+  height: 100px;
+  bottom : 0;
+  right: 0;
+  background-color:purple;
+  /* margin:50x */
+}
+
+#child5{
+  width: 100px;
+  position: absolute;
+  height: 100px;
+  bottom : 100px;
+  right: 50px;
+  left: 100px;
+  background-color:white;
+  /* margin:50x */}
