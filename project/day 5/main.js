@@ -1,0 +1,1 @@
+document.getElementById("playing-field").style.backgroundColor = "blue"
